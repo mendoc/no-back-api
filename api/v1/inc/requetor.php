@@ -9,10 +9,10 @@
 class BDD
 {
     private $config = array(
-        'host' => 'mysql-mende.alwaysdata.net',
-        'base' => 'mende_badol',
-        'user' => 'mende',
-        'pass' => 'Men5P@sS'
+        'host' => '<MySQL Host>',
+        'base' => '<Your DB Name>',
+        'user' => '<DB Username>',
+        'pass' => '<DB Password>'
     );
     private $table;
     private $bdd;
